@@ -1,0 +1,7 @@
+{
+    "name": "AMOLED Reloader",
+    "description": "AMOLED Reloader, automatically reloads AMOLED experiment when launching Discord.",
+    "author": "mesa#0001",
+    "license": "MIT",
+    "version": "1.0.0"
+}
