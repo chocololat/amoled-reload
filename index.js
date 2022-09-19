@@ -7,7 +7,7 @@ module.exports = class AmoledReload extends Plugin {
 
         setTimeout(() => {
             this.toggle(1);
-        }, 3000)
+        }, 250)
 
     }
     pluginWillUnload() {
