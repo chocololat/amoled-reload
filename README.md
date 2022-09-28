@@ -1,2 +1,5 @@
+# REPLUGGED AS OF NOW DOESNT WORK, THIS PLUGIN WILL BE REWRITTEN WHEN THE REPLUGGED SWC FIX GOES INTO PRODUCTION
+
 # amoled-reload
 Replugged plugin to automatically reload AMOLED Theme experiment
+
